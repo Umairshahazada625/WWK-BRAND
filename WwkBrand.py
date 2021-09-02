@@ -1,7 +1,7 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Author UMAIR SHAHZADA 
-#NAME TU SUNA HOGA...
+#Author iZ Rana MZ 
+#NAM TU SUNA HUG...
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
@@ -26,7 +26,7 @@ try:
 except ImportError:
     os.system('pip2 install mechanize')
     time.sleep(1)
-    os.system('python2 Wwk.py')
+    os.system('python2 ranamz.xo')
     
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
@@ -44,7 +44,7 @@ def exb():
 	os.sys.exit()
  
 def psb(z):
-	for e in z + '\n':
+	for e in z + '\':
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(0.03)
@@ -53,47 +53,47 @@ def t():
     time.sleep(1)
 def cb():
     os.system('clear')
-##### Dev : WWK BRAND
+##### Dev : Rana MZ
 ##### LOGO #####
 logo='''
-\033[1;91m ╔╗─╔╗╔═╗╔═╗╔═══╗╔══╗╔═══╗
-\033[1;94m ║║─║║║║╚╝║║║╔═╗║╚╣─╝║╔═╗║
-\033[1;93m ║║─║║║╔╗╔╗║║║─║║─║║─║╚═╝║
-\033[1;93m ║║─║║║║║║║║║╚═╝║─║║─║╔╗╔╝
-\033[1;93m ║╚═╝║║║║║║║║╔═╗║╔╣─╗║║║╚╗
-\033[1;93m ╚═══╝╚╝╚╝╚╝╚╝─╚╝╚══╝╚╝╚═╝
+\33[1;91m
+\33[1;94m  
+\33[1;93m        ╔╦╗╔═╦═╗╔══╗╔══╗╔═╗
+\33[1;93m        ║║║║║║║║║╔╗║╚║║╝║╬║
+\33[1;93m        ║║║║║║║║║╠╣║╔║║╗║╗╣
+\33[1;93m        ╚═╝╚╩═╩╝╚╝╚╝╚══╝╚╩╝
 
-\033[1;90m [ SHAHZADA BRAND  ]
+\33[1;90m [ UMAIR SHEHZADA ]
 
-\x1b[1;92m=============================
-\x1b[1;93m Coder + Author iS : UMAIR
-\x1b[1;93m FAMILY  : UMAIR WWK OWNER
-\x1b[1;93m FaceBook : UMAIR SHAHZADA
-\x1b[1;93m Whatsapp:  +923415177496
-\x1b[1;93m RULEX:  ALONE THUKAIII MASTER
-\x1b[1;92m=============================
-\x1b[1;93m     ➾       NOTE !
-\x1b[1;91m=======================================
-\x1b[1;93m     ➾ DoNT TRy TO COPy ME BECAUS iM THE 0NE
-\x1b[1;91m======================================= '''                                                                                                                                                                                                                                                                                                                                                  
+\1b[1;92m=============================
+\1b[1;93m Coder + Author iS : UMAIR
+\1b[1;93m FAMILY  : WWK (KSU)UNITY
+\1b[1;93m FaceBook : UMAIR SHEHZADA
+\1b[1;93m Whatsapp:  +923554576001
+\1b[1;93m RULEX:  RECORD BREAKERS WWK RULEX
+\1b[1;92m=============================
+\1b[1;93m     ➾       NOTE !
+\1b[1;91m=======================================
+\1b[1;93m     ➾ DoNT TRy TO COPy ME BECAUS iM THE 0NE
+\1b[1;91m======================================= '''                                                                                                                                                                                                                                                                                                                                                  
 
 CorrectUsername = "UMAIR"
 CorrectPassword = "WWK"
  
 loop = 'true'
 while (loop == 'true'):
-    username = raw_input("\033[1;97m\x1b[1;91mTool Username \x1b[1;97m»» \x1b[1;97m")
+    username = raw_input("\33[1;97m\1b[1;91mTool Username \1b[1;97m»» \1b[1;97m")
     if (username == CorrectUsername):
-    	password = raw_input("\033[1;97m \x1b[1;91mTool Password  \x1b[1;97m» \x1b[1;97m")
+    	password = raw_input("\33[1;97m \1b[1;91mTool Password  \1b[1;97m» \1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:SHAHZADA
+            print "Logged in successfully as " + username #Dev:Rana MZ
 	    time.sleep(2)
             loop = 'false'
         else:
-            print "\033[1;94mWrong Password"
+            print "\33[1;94mWrong Password"
             os.system('xdg-open https://www.facebook.com/unknownXX007')
     else:
-        print "\033[1;94mWrong Username"
+        print "\33[1;94mWrong Username"
         os.system('xdg-open https://www.facebook.com/unknownXX007')
 
 
@@ -105,52 +105,51 @@ id = []
 def menu():
 	os.system('clear')
 	print logo
-	print "\033[1;92m         [ UMAIR { FB TRICKER } ]"
+	print "\33[1;92m         [ UMAIR { Pak Hacker } ]"
 	print
-        print "\033[1;91m          SELECT ANY ONE SIM NETWORK"
-	print "\033[1;92m[1]\033[1;97m╼╼\033[1;93mMOBILINK     (Press 1)"
-	print "\033[1;92m[2]\033[1;97m╼╼\033[1;93mTELENOR      (Press 2)"
-	print "\033[1;92m[3]\033[1;97m╼╼\033[1;93mWARID        (Press 3)"
-	print "\033[1;92m[4]\033[1;97m╼╼\033[1;93mUFONE        (Press 4)"
-	print "\033[1;92m[5]\033[1;97m╼╼\033[1;93mZONG         (Press 5)"
-	print "\033[1;92m[6]\033[1;97m╼╼\033[1;93mUPDATE SYSTEM"
-	print "\033[1;92m[0]\033[1;97m╼╼\033[1;91mEXIT   (Back) "	    
-	print 50*'\033[1;90m-'
+        print "\33[1;91m          SELECT ANY ONE SIM NETWORK"
+	print "\33[1;92m[1]\33[1;97m╼╼\33[1;93mMOBILINK     (Press 1)"
+	print "\33[1;92m[2]\33[1;97m╼╼\33[1;93mTELENOR      (Press 2)"
+	print "\33[1;92m[3]\33[1;97m╼╼\33[1;93mWARID        (Press 3)"
+	print "\33[1;92m[4]\33[1;97m╼╼\33[1;93mUFONE        (Press 4)"
+	print "\33[1;92m[5]\33[1;97m╼╼\33[1;93mZONG         (Press 5)"
+	print "\33[1;92m[6]\33[1;97m╼╼\33[1;93mUPDATE SYSTEM"
+	print "\33[1;92m[0]\33[1;97m╼╼\33[1;91mEXIT   (Back) "	    
+	print 50*'\33[1;90m-'
 	action()
 	
 def action():	
-	bch = raw_input('\n\033[1;92mSELECT ANY ONE NETWORK NUMBER \033[1;95m▶▶▶▶▶ \033[1;97m ')
+	bch = raw_input('\\33[1;92mSELECT ANY ONE NETWORK NUMBER \33[1;95m▶▶▶▶▶ \33[1;97m ')
 	if bch =='':
 		print '[!] Fill in correctly'
 		action()
 	elif bch =="1":
 		os.system("clear")
 		print (logo)
-		print "\033[1;91m\x1b[1;93mMOBILINK/JAZZ CODE HERE\x1b[1;92m◈◈◈◈◈"		
-		print "\033[1;91m00, 01, 02, 03, 04,"
-		print "\033[1;91m05, 06, 07, 08, 09,"
+		print "\33[1;91m\1b[1;93mMOBILINK/JAZZ CODE HERE\1b[1;92m◈◈◈◈◈"		
+		print "\33[1;91m00, 01, 02, 03, 04,"
+		print "\33[1;91m05, 06, 07, 08, 09,"
 		try:
-			c = raw_input(" \033[1;91m◢◀\x1b[1;92mSELECTED ANYONE CODE\x1b[1;91m▶◣ \033[1;97m:\033[1;97m ")
+			c = raw_input(" \33[1;91m◢◀\1b[1;92mSELECTED ANYONE CODE\1b[1;91m▶◣ \33[1;97m:\33[1;97m ")
 			k="+923"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
 		except IOError:
 			print ("[!] File Not Found")
-			raw_input("\n[ Back ]")
+			raw_input("\[ Back ]")
 			menu()
 	elif bch =="2":			
 		os.system("clear")
 		print (logo)
-		print "\033[1;91m\033[1;91mTELENOR CODE HERE\x1b[1;92m◈◈◈◈◈"		
-		print "\033[1;91m40, 41, 42, 43, 44,"
-		print "\033[1;91m45, 64, ??, ??, ??,"
+		print "\33[1;91m\33[1;91mTELENOR CODE HERE\1b[1;92m◈◈◈◈◈"		
+		print "\33[1;91m40, 41, 42, 43, 44,"
+		print "\33[1;91m45, 64, ??, ??, ??,"
 		try:
-			c = raw_input(" \033[1;91m◢◀\x1b[1;92mSELECTED ANYONE CODE\x1b[1;91m▶◣ \033[1;97m: \033[1;97m")
+			c = raw_input(" \33[1;91m◢◀\1b[1;92mSELECTED ANYONE CODE\1b[1;91m▶◣ \33[1;97m: \33[1;97m")
 			k="+923"
 			idlist = ('.txt')
 			for line in open(idlist,"r").readlines():
 				id.append(line.strip())
 		except IOError:
 			print ("[!] File Not Found")
-			raw_input("\n[
