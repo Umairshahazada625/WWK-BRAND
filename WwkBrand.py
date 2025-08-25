@@ -44,7 +44,7 @@ def exb():
 	os.sys.exit()
  
 def psb(z):
-	for e in z + '\':
+	for e in z + '\\':
 		sys.stdout.write(e)
 		sys.stdout.flush()
 		time.sleep(0.03)
