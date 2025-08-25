@@ -42,7 +42,8 @@ br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Buil
 def exb():
 	print '[!] Exit'
 	os.sys.exit()
- def psb(z):
+
+def psb(z):
     for e in z + '\\':
         sys.stdout.write(e)
 sys.stdout.flush()
